@@ -10,6 +10,7 @@ main()
     fact=fact*i;
   }
   printf("\n fact=%d",fact);
+  printf("\n welcome");
 }
 void add()
 {
